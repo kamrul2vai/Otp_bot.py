@@ -1,0 +1,4 @@
+requests
+pyTelegramBotAPIf
+lask
+python bot.py
